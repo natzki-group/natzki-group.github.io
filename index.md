@@ -1,7 +1,9 @@
 # Natzki Group Workspace Index
 
 ## Resources
+
 - [Workflow](./workflow)
+  - [Exports Guide](./workflow/#/page/exports guide)
 
 ## Current Projects
 
@@ -10,13 +12,10 @@
 
 ## Archive
 
-
 - [Cytomegalovirus (mRNA-1345)](./cmv/)
 - [Non-Small Cell Lung Cancer (LUMAKRAS)](./nsclc/)
 
-
 <br>
-
 
 ## Links
 
