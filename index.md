@@ -1,5 +1,17 @@
 # Natzki Group Workspace Index
 
+You can use several shortcuts in the interactive version, such as
+
+- `t d` - Toggle document (reader) mode
+- `t w` - Toggle wide mode
+- `Shift click` - Open in sidebar
+- `g g` - Go to Graph view
+- `g h` - Go to Home
+- `t o` - Toggle open blocks/close blocks
+- `t t` - Toggle theme.
+
+---
+
 ## Resources
 
 - [Workflow](./workflow)
@@ -7,7 +19,7 @@
 
 ## Current Projects
 
-- [Amgen Products](./amgen) - (Current)
+- [Amgen Products](./amgen) **(Current)**
 - [Respiratory Syncitial Virus (mRNA-1647)](./rsv/)
 
 ## Archive
@@ -15,7 +27,7 @@
 - [Cytomegalovirus (mRNA-1345)](./cmv/)
 - [Non-Small Cell Lung Cancer (LUMAKRAS)](./nsclc/)
 
-<br>
+---
 
 ## Links
 
