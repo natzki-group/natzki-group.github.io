@@ -11,24 +11,23 @@ You can use several shortcuts in the interactive version, such as
 
 ---
 
-## Resources
-
-- [Workflow](./workflow)
-  - [Exports Guide](./workflow/#/page/exports guide/)
-
 ## Current Projects
 
 - [Amgen Products](./amgen) **(Current)**
 - [Respiratory Syncitial Virus (mRNA-1647)](./rsv/)
 
+## Resources
+
+- [Workflow](./workflow)
+
 ## Archive
 
 - [Cytomegalovirus (mRNA-1345)](./cmv/)
-- [Non-Small Cell Lung Cancer (LUMAKRAS)](./nsclc/)
+- [Non-Small Cell Lung Cancer (LUMAKRAS)](./nsclc/) (now part of [Amgen Products](./amgen))
 
 ---
 
-## Links
+
 
 [Natzki.nl](https://natzki.nl) -
 [GitHub](https://github.com/natzki-group) -
